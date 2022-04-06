@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactliveweb/static/css/main.e4741d7f.css",
+    "main.js": "/reactliveweb/static/js/main.57edc317.js",
+    "static/media/2672292.jpg": "/reactliveweb/static/media/2672292.f342191504589109a726.jpg",
+    "static/media/app.jpg": "/reactliveweb/static/media/app.374c03de4110e32e67bc.jpg",
+    "static/media/Programming-rafiki.png": "/reactliveweb/static/media/Programming-rafiki.5edf8c9d0035f2faafd4.png",
+    "static/media/software.jpg": "/reactliveweb/static/media/software.0006c79a7c5d410e2cb8.jpg",
+    "static/media/seo.png": "/reactliveweb/static/media/seo.ae26286ea01425b932c0.png",
+    "static/media/web.jpeg": "/reactliveweb/static/media/web.b254055f32eced8fb951.jpeg",
+    "static/media/svgs.jpg": "/reactliveweb/static/media/svgs.01fe0087cb9dc39493ce.jpg",
+    "index.html": "/reactliveweb/index.html",
+    "main.e4741d7f.css.map": "/reactliveweb/static/css/main.e4741d7f.css.map",
+    "main.57edc317.js.map": "/reactliveweb/static/js/main.57edc317.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4741d7f.css",
+    "static/js/main.57edc317.js"
+  ]
+}
